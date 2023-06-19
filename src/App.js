@@ -10,8 +10,8 @@ function App() {
     <div>
 {/* <Welcome/> */}
 {/* <Navbar/> */}
-<About/>
-{/* <Footer/> */}
+{/* <About/> */}
+<Footer/>
  </div>
   );
 }
