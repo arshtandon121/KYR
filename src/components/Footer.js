@@ -133,7 +133,8 @@ const Footer = () => {
                     </div>
                     <div className="w">
                       <p className="l">
-                        <b className="b"></b>
+                        <span className="b"></span>
+                        {/* <b className="b"></b> */}
                         <a
                           className="text"
                           href="https://www.kyrelevators.in/products.htm"

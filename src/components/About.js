@@ -23,7 +23,7 @@ const About = () => {
               </div>
             </div>
 
-            <div className="text">
+            <div className="text1">
               <p>
                 Elevator and lift manufacturers and suppliers include KYR
                 Elevators (A unit of Spectra Enterprises) an ISO 9001:2015
@@ -57,7 +57,7 @@ const About = () => {
             <div className="title">
               <h2> About Us</h2>
             </div>
-            <div className="text">
+            <div className="text1">
               <table>
                 <tr>
                   <th className="al">Nature of Business</th>
